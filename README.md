@@ -51,3 +51,5 @@ exception: manejo de errores
 También disponible en
 https://s.icepanel.io/kbuwQPKgV2hzkr/TMh9
 
+# Curriculum
+https://www.canva.com/design/DAGcY1dKmcE/AhOkIRj5QZ72lLj0hecE2w/edit?utm_content=DAGcY1dKmcE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

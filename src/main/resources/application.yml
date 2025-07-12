@@ -1,0 +1,8 @@
+# src/main/resources/application.yml
+
+server:
+  port: 8090
+
+spring:
+  application:
+    name: validator-service
